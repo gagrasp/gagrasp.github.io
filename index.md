@@ -4,7 +4,7 @@ permalink: /
 
 title: Geometric Algebra Grasp Diffusion for Dexterous Manipulators
 authors:
-    [Tao Zhong](https://www.taozhong.info/) and [Christine Allen-Blanchette](https://cablanc.github.io/)
+    Tao Zhong and Christine Allen-Blanchette
 affiliations:
     Princeton University
 paper: https://gagrasp.github.io/
