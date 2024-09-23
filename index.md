@@ -13,8 +13,8 @@ code: https://gagrasp.github.io/
 data:
 ---
 
-<img src="static/image/teaser.jpg" class="center" alt="commutative diagram." width="384" 
-     height="360">
+<center><img src="static/image/teaser.jpg" class="center" alt="commutative diagram." width="384" 
+     height="360"></center>
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
