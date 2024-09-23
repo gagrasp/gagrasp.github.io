@@ -24,7 +24,7 @@ We propose a novel framework for dexterous grasp generation that leverages geome
         </div>
     </div>
 </div>
-<iframe width="560" height="315"
+<center><iframe width="854" height="480"
 src="https://www.youtube.com/embed/QB0vlt95BOA">
-</iframe>
+</iframe></center>
 ---
