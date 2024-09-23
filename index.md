@@ -7,8 +7,10 @@ authors:
     [Tao Zhong](https://www.taozhong.info/) and [Christine Allen-Blanchette](https://cablanc.github.io/)
 affiliations:
     Princeton University
-paper: 
-code: 
+paper: https://gagrasp.github.io/
+video: https://gagrasp.github.io/
+code: https://gagrasp.github.io/
+data:
 ---
 
 <img src="static/image/teaser.jpg" alt="commutative diagram.">
