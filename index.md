@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: Geometric Algebra Diffusion for Dexterous Grasping
+title: GAGrasp: Geometric Algebra Diffusion for Dexterous Grasping
 authors:
     <a href="https://www.taozhong.info/">Tao Zhong</a> and <a href="https://cablanc.github.io/">Christine Allen-Blanchette</a>
 affiliations:
