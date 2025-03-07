@@ -48,7 +48,11 @@
         <div class="column has-text-centered">
           <h1 class="title is-1 publication-title">{{ page.title }}</h1>
           {% if page.venue %}
-            <p class="publication-venue is-size-7"><em>{{ page.venue }}</em></p>
+            <div class="is-size-5 publication-authors">
+              <span class="publication-venue">
+                <em>{{ page.venue }}</em>
+              </span>
+            </div>
           {% endif %}
           {% if page.authors %}
           <div class="is-size-5 publication-authors">
