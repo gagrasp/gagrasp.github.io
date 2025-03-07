@@ -3,11 +3,12 @@ layout: project_page
 permalink: /
 
 title: 'GAGrasp: Geometric Algebra Diffusion for Dexterous Grasping'
+venue: 'IEEE International Conference on Robotics and Automation (ICRA) 2025'
 authors:
     <a href="https://www.taozhong.info/">Tao Zhong</a> and <a href="https://cablanc.github.io/">Christine Allen-Blanchette</a>
 affiliations:
     Princeton University
-paper: https://gagrasp.github.io/
+arxiv: https://arxiv.org/pdf/2503.04123
 video: https://youtu.be/QB0vlt95BOA
 code: https://gagrasp.github.io/
 data:
