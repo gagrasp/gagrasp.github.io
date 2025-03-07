@@ -6,7 +6,10 @@
         content="">
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
+  <h1 class="title is-1 publication-title">{{ page.title }}</h1>
+  {% if page.venue %}
+    <h2 class="subtitle is-3 publication-venue">{{ page.venue }}</h2>
+  {% endif %}
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
@@ -74,6 +77,17 @@
                       <i class="fas fa-file-pdf"></i>
                   </span>
                   <span>Paper</span>
+                </a>
+              </span>
+              {% endif %}
+              <!-- arXiv Link. -->
+              {% if page.arxiv %}
+              <span class="link-block">
+                <a href="{{ page.arxiv }}" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <img src="./static/images/arxiv.svg" alt="ArXiv icon" style="height: 1em;">
+                  </span>
+                  <span>ArXiv</span>
                 </a>
               </span>
               {% endif %}
